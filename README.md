@@ -19,6 +19,12 @@ class Skills extends SoftwareDeveloper {
   languages  = ['JavaScript', 'HTML 5', 'CSS 3', 'C'];
   frameworks = ['React'];
 }
+
+class FunsfactsAboutMe extends SoftwareDeveloper {
+  I had a rock band;
+  Regional Champion of the Brazilian Robotics Olympics in 2016;
+  Arduino lover;
+}
 ```
 
 <div style=""><br>
@@ -27,5 +33,5 @@ class Skills extends SoftwareDeveloper {
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-  
+
 ![Snake animation](https://github.com/kirodoras/kirodoras/blob/output/github-contribution-grid-snake.svg)
