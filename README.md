@@ -5,26 +5,24 @@
 </div>
 
 ```js
-import SoftwareDeveloper Student from 'Brazil';
-
-class Bio extends SoftwareDeveloper {
-  name     = 'Mateus Figueiredo';
-  title    = 'Software Engineer Student';
-  location = 'Aracaju, Sergipe';
-  institution = 'Driven Education';
-  availability = 'Available to hire!!';
+const Bio = {
+  name: 'Mateus Figueiredo',
+  title: 'Software Engineer Student',
+  location: 'Aracaju, Sergipe',
+  institution: 'Driven Education',
+  availability: 'Available to hire!!'
 }
 
-class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'HTML 5', 'CSS 3', 'C'];
-  frameworks = ['React'];
+const Skills = {
+  languages: ['JavaScript', 'HTML 5', 'CSS 3', 'C'],
+  frameworks = ['React']
 }
 
-class FunsfactsAboutMe extends SoftwareDeveloper {
-  I had a rock band;
-  Regional Champion of the Brazilian Robotics Olympics in 2016;
-  Arduino lover;
-}
+const FunsfactsAboutMe = [
+  'I had a rock band',
+  'Regional Champion of the Brazilian Robotics Olympics in 2016',
+  'Arduino lover'
+];
 ```
 
 <div style=""><br>
