@@ -12,8 +12,8 @@ const FunsfactsAboutMe = [
 ];
 
 const Technologies = {
-  front: ['HTML5', 'CSS3', 'JAVASCRIPT', 'REACT', 'STYLED-COMPONENTS'],
-  back: ['NODE.JS', 'TYPESCRIPT', 'EXPRESS.JS', 'POSTGRESQL', 'JEST', 'DOCKER', 'PRISMA'],
+  front: ['HTML5', 'CSS3', 'JAVASCRIPT', 'REACT', 'STYLED-COMPONENTS', 'CYPRESS'],
+  back: ['NODE.JS', 'TYPESCRIPT', 'EXPRESS.JS', 'POSTGRESQL', 'JEST', 'DOCKER', 'PRISMA', 'MONGODB'],
   tools: ['GIT', 'TRELLO', 'ESLINT', 'SLACK', 'NPM', 'VS CODE', 'LINUX', 'FIGMA'],
   cloud: ['VERCEL', 'HEROKU', 'AMAZON AWS']
 }
