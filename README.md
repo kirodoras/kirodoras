@@ -22,3 +22,4 @@ const Technologies = {
   cloud: ['VERCEL', 'HEROKU', 'AMAZON AWS']
 }
 ```
+<a href="https://wakatime.com/@15514ff3-6114-4a93-a1ce-60b3597c455c"><img src="https://wakatime.com/badge/user/15514ff3-6114-4a93-a1ce-60b3597c455c.svg" alt="Total time coded since Mar 22 2022" /></a>
